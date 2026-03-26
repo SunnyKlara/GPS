@@ -1,0 +1,33 @@
+杰理AC63 SDK参考资料网址汇总
+================================
+
+【原始参考链接】
+杰理官方文档首页: https://doc.zh-jieli.com/AC63/zh-cn/master/index.html
+淘宝开发板链接: https://item.taobao.com/item.htm?abbucket=19&id=844438677259&loginBonus=1&mi_id=0000Srhql1198j_6Lahpb1m3S9gyeWjkS7YrRxz1vFIOQsw&ns=1&priceTId=214783b817744407063796567e1cc1&skuId=5833587871972&spm=a21n57.sem.item.1.24203903PEwR6f&utparam=%7B%22aplus_abtest%22%3A%22d3928f439583aaa2d63d500faa478f2f%22%7D&xxc=taobaoSearch
+
+【SDK源码(开源)】
+GitHub: https://github.com/Jieli-Tech/fw-AC63_BT_SDK
+Gitee:  https://gitee.com/Jieli-Tech/fw-AC63_BT_SDK
+
+【官方文档】
+HID DEMO说明: https://doc.zh-jieli.com/AC63/zh-cn/master/module_demo/hid/index.html
+HID按键示例: https://doc.zh-jieli.com/AC63/zh-cn/master/module_demo/hid/keyboard.html
+HID协议描述符说明: https://doc.zh-jieli.com/AC63/zh-cn/master/module_example/BT/hid.html
+自拍杆示例: https://doc.zh-jieli.com/AC63/zh-cn/master/module_demo/hid/keyfob.html
+SDK启动流程: https://doc.zh-jieli.com/AC63/zh-cn/master/getting_started/sdk_app_develop/start_process.html
+APP开发框架: https://doc.zh-jieli.com/AC63/zh-cn/master/getting_started/sdk_app_develop/app_framework.html
+烧录配置: https://doc.zh-jieli.com/AC63/zh-cn/master/getting_started/project_download/INI_config.html
+
+【开发工具下载】
+编译工具: https://doc.zh-jieli.com/Tools/zh-cn/dev_tools/dev_env/index.html
+烧录工具: https://doc.zh-jieli.com/Tools/zh-cn/mass_prod_tools/burner_1tuo2/index.html
+
+【辅助工具】
+USB HID描述符在线解析: http://eleccelerator.com/usbdescreqparser/
+杰理资料下载(代理): http://www.yunthinker.com/down.html
+
+【技术交流群(钉钉)】
+3群: 107855006323
+
+【FAQ】
+常见问题: https://github.com/Jieli-Tech/fw-AC63_BT_SDK/blob/master/doc/FAQ

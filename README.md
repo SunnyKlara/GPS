@@ -33,7 +33,7 @@ gps_speedometer/
 └── Makefile                # 构建脚本
 ```
 
-## 开��策略
+## 开发策略
 1. **Phase 1**: PC模拟环境搭建，跑通NMEA解析+速度计算+里程累计
 2. **Phase 2**: 实现BLE HID协议栈模拟
 3. **Phase 3**: 获取杰理SDK后，替换HAL层适配真机

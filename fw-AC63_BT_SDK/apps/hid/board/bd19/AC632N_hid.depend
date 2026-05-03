@@ -1,0 +1,2694 @@
+# depslib dependency file v1.0
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\adc_api.c
+	"typedef.h"
+	"asm/clock.h"
+	"asm/adc_api.h"
+	"timer.h"
+	"init.h"
+	"asm/efuse.h"
+	"irq.h"
+	"asm/power/p33.h"
+	"asm/power/p11.h"
+	"asm/power_interface.h"
+	"jiffies.h"
+	"app_config.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\typedef.h
+	"asm/cpu.h"
+	"generic/errno-base.h"
+	"string.h"
+	"strings.h"
+	"system/malloc.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\cpu.h
+	"bd19.h"
+	"csfr.h"
+	"cache.h"
+	"asm/irq.h"
+	"generic/printf.h"
+	"system/generic/log.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\bd19.h
+	"io_omap.h"
+	"io_imap.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\io_omap.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\io_imap.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\csfr.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\cache.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\irq.h
+	"asm/hwi.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\hwi.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\printf.h
+	<stdarg.h>
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\log.h
+	"system/generic/printf.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\errno-base.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\malloc.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\clock.h
+	"typedef.h"
+	"clock_hw.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\clock_hw.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\adc_api.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\timer.h
+	"typedef.h"
+	"generic/list.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\list.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\init.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\efuse.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\irq.h
+	"asm/irq.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\power\p33.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\power\p11.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\power_interface.h
+	"generic/typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\jiffies.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_config.h
+	"board_config.h"
+	"usb_common_def.h"
+	"btcontroller_mode.h"
+	"user_cfg_id.h"
+
+1774511460 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_config.h
+	"board_ac632n_demo_cfg.h"
+	"board_ac6321a_demo_cfg.h"
+	"board_ac6321a_stand_keyboard_cfg.h"
+	"board_ac6321a_mouse_cfg.h"
+	"board_ac6323a_demo_cfg.h"
+	"board_ac6328a_keyfob_cfg.h"
+	"board_ac6328b_demo_cfg.h"
+	"board_ac6329b_demo_cfg.h"
+	"board_ac6329c_demo_cfg.h"
+	"board_ac6329e_demo_cfg.h"
+	"board_ac6329f_demo_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac632n_demo_cfg.h
+	"board_ac632n_demo_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac632n_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_demo_cfg.h
+	"board_ac6321a_demo_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_stand_keyboard_cfg.h
+	"board_ac6321a_stand_keyboard_global_build_cfg.h"
+	"usb_std_class_def.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_stand_keyboard_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\usb_std_class_def.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_mouse_cfg.h
+	"board_ac6321a_mouse_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_mouse_global_build_cfg.h
+
+1777454897 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6323a_demo_cfg.h
+	"board_ac6323a_demo_global_build_cfg.h"
+
+1776779516 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6323a_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6328a_keyfob_cfg.h
+	"board_ac6328a_keyfob_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6328a_keyfob_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6328b_demo_cfg.h
+	"board_ac6328b_demo_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6328b_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329b_demo_cfg.h
+	"board_ac6329b_demo_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329b_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329c_demo_cfg.h
+	"board_ac6329c_demo_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329c_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329e_demo_cfg.h
+	"board_ac6329e_demo_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329e_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329f_demo_cfg.h
+	"board_ac6329f_demo_global_build_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329f_demo_global_build_cfg.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\usb_common_def.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\btcontroller_mode.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\user_cfg_id.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_codec_clock.c
+	"debug.h"
+	"app_config.h"
+	"system/includes.h"
+	"audio_codec_clock.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\debug.h
+	"asm/cpu.h"
+	"generic/typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\includes.h
+	"init.h"
+	"event.h"
+	"malloc.h"
+	"spinlock.h"
+	"task.h"
+	"timer.h"
+	"wait.h"
+	"app_core.h"
+	"app_msg.h"
+	"database.h"
+	"fs/fs.h"
+	"power_manage.h"
+	"syscfg_id.h"
+	"bank_switch.h"
+	"generic/includes.h"
+	"device/includes.h"
+	"asm/includes.h"
+	"device/sdio_host_init.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\event.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/rect.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\rect.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\spinlock.h
+	"typedef.h"
+	"cpu.h"
+	"irq.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\cpu.h
+	<asm/cpu.h>
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\task.h
+	"os/os_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\os_api.h
+	"generic/typedef.h"
+	"os/os_cpu.h"
+	"os/os_error.h"
+	"os/os_type.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\os_cpu.h
+	"asm/cpu.h"
+	"jiffies.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\os_error.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\os_type.h
+	<os/ucos_ii.h>
+	"FreeRTOS/FreeRTOS.h"
+	"FreeRTOS/semphr.h"
+	"FreeRTOS/task.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\ucos_ii.h
+	"generic/typedef.h"
+	"os/os_cpu.h"
+	"os/os_cfg.h"
+	"os/os_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\os_cfg.h
+	"os/os_cpu.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\freertos.h
+	"FreeRTOSConfig.h"
+	"projdefs.h"
+	"portable.h"
+	<reent.h>
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\freertosconfig.h
+	"printf.h"
+	"pi32v2/portmacro.h"
+	"pi32_lto/portmacro.h"
+	"q32s/portmacro.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\pi32v2\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\pi32_lto\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\q32s\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\projdefs.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\portable.h
+	"deprecated_definitions.h"
+	"portmacro.h"
+	"mpu_wrappers.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\deprecated_definitions.h
+	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
+	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
+	"../portable/GCC/ATMega323/portmacro.h"
+	"../portable/IAR/ATMega323/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC18F/portmacro.h"
+	"../../Source/portable/MPLAB/PIC32MX/portmacro.h"
+	"libFreeRTOS/Include/portmacro.h"
+	"../../Source/portable/SDCC/Cygnal/portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC2000/portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC23xx/portmacro.h"
+	"..\..\Source\portable\IAR\MSP430\portmacro.h"
+	"../../Source/portable/GCC/MSP430F449/portmacro.h"
+	"../../Source/portable/Rowley/MSP430F449/portmacro.h"
+	"..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91SAM7S/portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM7S64\portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM9XE\portmacro.h"
+	"..\..\Source\portable\IAR\LPC2000\portmacro.h"
+	"..\..\Source\portable\IAR\STR71x\portmacro.h"
+	"..\..\Source\portable\IAR\STR75x\portmacro.h"
+	"..\..\Source\portable\GCC\STR75x\portmacro.h"
+	"..\..\Source\portable\IAR\STR91x\portmacro.h"
+	"../../Source/portable/GCC/H8S2329/portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91FR40008/portmacro.h"
+	"../../Source/portable/RVDS/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/CodeWarrior/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MicroBlaze/portmacro.h"
+	"..\..\Source\portable\Paradigm\Tern_EE\small\portmacro.h"
+	"../../Source/portable/GCC/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MCF5235/portmacro.h"
+	"../../../Source/portable/GCC/ColdFire_V2/portmacro.h"
+	"../../Source/portable/CodeWarrior/ColdFire_V2/portmacro.h"
+	"../../Source/portable/GCC/PPC405_Xilinx/portmacro.h"
+	"../../Source/portable/GCC/PPC440_Xilinx/portmacro.h"
+	"..\..\Source\portable\Softune\MB96340\portmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\PC\prtmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\flsh186\prtmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\mpu_wrappers.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\semphr.h
+	"queue.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\queue.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\task.h
+	"list.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\os\freertos\list.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\wait.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\app_core.h
+	"typedef.h"
+	"generic/list.h"
+	"system/event.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\app_msg.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\database.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\fs\fs.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/ioctl.h"
+	"generic/atomic.h"
+	"system/task.h"
+	"system/malloc.h"
+	"system/sys_time.h"
+	"stdarg.h"
+	"fs_file_name.h"
+	"sdfile.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\ioctl.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\atomic.h
+	"cpu.h"
+	"irq.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\sys_time.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\fs\fs_file_name.h
+	"generic/typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\fs\sdfile.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\power_manage.h
+	"generic/typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\syscfg_id.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\bank_switch.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\includes.h
+	"errno-base.h"
+	"typedef.h"
+	"ascii.h"
+	"atomic.h"
+	"ioctl.h"
+	"cpu.h"
+	"gpio.h"
+	"irq.h"
+	"jiffies.h"
+	"list.h"
+	"printf.h"
+	"rect.h"
+	"version.h"
+	"lbuf.h"
+	"lbuf_lite.h"
+	"circular_buf.h"
+	"index.h"
+	"debug_lite.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\ascii.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\gpio.h
+	"asm/gpio.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\gpio.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\version.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\lbuf.h
+	"typedef.h"
+	"list.h"
+	"system/spinlock.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\lbuf_lite.h
+	"typedef.h"
+	"list.h"
+	"system/spinlock.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\circular_buf.h
+	"typedef.h"
+	"system/spinlock.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\index.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\generic\debug_lite.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\includes.h
+	"device.h"
+	"ioctl_cmds.h"
+	"key_driver.h"
+	"iokey.h"
+	"irkey.h"
+	"adkey.h"
+	"slidekey.h"
+	"touch_key.h"
+	"rdec_key.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\device.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/atomic.h"
+	"device/ioctl_cmds.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\ioctl_cmds.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\key_driver.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\iokey.h
+	"typedef.h"
+	"device/device.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\irkey.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\adkey.h
+	"typedef.h"
+	"asm/adc_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\slidekey.h
+	"typedef.h"
+	"device/device.h"
+	"asm/adc_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\touch_key.h
+	"typedef.h"
+	"asm/plcnt.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\plcnt.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\rdec_key.h
+	"typedef.h"
+	"asm/rdec.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\rdec.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\includes.h
+	"asm/cpu.h"
+	"asm/crc16.h"
+	"asm/clock.h"
+	"asm/uart.h"
+	"asm/uart_dev.h"
+	"asm/gpio.h"
+	"asm/spiflash.h"
+	"asm/csfr.h"
+	"asm/power_interface.h"
+	"asm/efuse.h"
+	"asm/wdt.h"
+	"asm/debug.h"
+	"asm/rtc.h"
+	"asm/mcpwm.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\crc16.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\uart.h
+	"device/uart.h"
+	"device/device.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\uart.h
+	"typedef.h"
+	"device/device.h"
+	"generic/ioctl.h"
+	"system/task.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\uart_dev.h
+	"typedef.h"
+	"os/os_api.h"
+	"jiffies.h"
+	"irq.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\spiflash.h
+	"device/device.h"
+	"device/spiflash.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\spiflash.h
+	"typedef.h"
+	"generic/list.h"
+	"generic/ioctl.h"
+	"device/device.h"
+	"system/task.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\wdt.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\debug.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\rtc.h
+	"typedef.h"
+	"system/sys_time.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\mcpwm.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\sdio_host_init.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_codec_clock.h
+	"audio_base.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\audio_base.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_decode\audio_decode.c
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"app_config.h"
+	"audio_config.h"
+	"audio_decode.h"
+	"app_main.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\includes.h
+	"media/audio_decoder.h"
+	"media/audio_encoder.h"
+	"media/mixer.h"
+	"media/automute.h"
+	"media/audio_stream.h"
+	"asm/cpu_includes.h"
+	"application/eq_func_define.h"
+	"asm/dac.h"
+	"asm/audio_adc.h"
+	"asm/audio_src.h"
+	"asm/audio_spdif.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\audio_decoder.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"media/audio_base.h"
+	"os/os_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\audio_encoder.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/circular_buf.h"
+	"media/audio_base.h"
+	"os/os_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\mixer.h
+	"generic/typedef.h"
+	"generic/list.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\automute.h
+	"generic/typedef.h"
+	"generic/list.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\audio_stream.h
+	"generic/includes.h"
+	"media/audio_base.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\cpu_includes.h
+	"asm/audio_adc.h"
+	"asm/audio_linein.h"
+	"asm/audio_src.h"
+	"asm/audio_src_sync.h"
+	"audio_sync_resample.h"
+	"dac.h"
+	"anc.h"
+	"asm/hw_eq.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\audio_adc.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/atomic.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\audio_linein.h
+	"generic/typedef.h"
+	"asm/audio_adc.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\audio_src.h
+	"system/includes.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\audio_src_sync.h
+	"system/includes.h"
+	"audio_src.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\audio_sync_resample.h
+	"typedef.h"
+	"system/includes.h"
+	"os/os_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\dac.h
+	"generic/typedef.h"
+	"generic/atomic.h"
+	"os/os_api.h"
+	"audio_src.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\anc.h
+	"generic/typedef.h"
+	"system/task.h"
+	"media/audio_def.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\audio_def.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\asm\hw_eq.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"os/os_api.h"
+	"application/eq_func_define.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\application\eq_func_define.h
+	"generic/typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_config.h
+	"generic/typedef.h"
+	"board_config.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_decode\audio_decode.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_main.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_encode\audio_encode.c
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"classic/hci_lmp.h"
+	"asm/audio_src.h"
+	"app_main.h"
+	"btstack/avctp_user.h"
+	"audio_config.h"
+	"audio_encode.h"
+	"sbc_enc.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\classic\hci_lmp.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\avctp_user.h
+	"typedef.h"
+	"btstack_typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\btstack_typedef.h
+	"typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_encode\audio_encode.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\sbc_enc.h
+	<stddef.h>
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_pwm.c
+	"system/includes.h"
+	"app_config.h"
+	"app_action.h"
+	"app_main.h"
+	"gpio.h"
+	"asm/power/p11.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_action.h
+	"app_config.h"
+	"system/app_core.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\audio_resample_demo.c
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"app_config.h"
+	"audio_config.h"
+	"audio_decode.h"
+	"app_main.h"
+	"Resample_api.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\resample_api.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\charge.c
+	"asm/clock.h"
+	"timer.h"
+	"asm/power/p33.h"
+	"asm/charge.h"
+	"asm/adc_api.h"
+	"uart.h"
+	"device/device.h"
+	"asm/power_interface.h"
+	"system/event.h"
+	"asm/efuse.h"
+	"gpio.h"
+	"app_config.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\charge.h
+	"typedef.h"
+	"device.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\chargestore.c
+	"generic/typedef.h"
+	"generic/gpio.h"
+	"asm/power/p33.h"
+	"asm/hwi.h"
+	"asm/gpio.h"
+	"asm/clock.h"
+	"asm/charge.h"
+	"asm/chargestore.h"
+	"asm/power_interface.h"
+	"update.h"
+	"app_config.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\chargestore.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\update\update.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\handshake_timer.c
+	"asm/includes.h"
+	"system/includes.h"
+	"app_config.h"
+	"chargebox.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\chargebox.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\iic_hw.c
+	"asm/iic_hw.h"
+	"system/generic/gpio.h"
+	"system/generic/log.h"
+	"asm/clock.h"
+	"asm/cpu.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\iic_hw.h
+	"system/generic/typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\iic_soft.c
+	"asm/iic_soft.h"
+	"generic/gpio.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\iic_soft.h
+	"generic/typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\irflt.c
+	"asm/includes.h"
+	"asm/irflt.h"
+	"timer.h"
+	"generic/gpio.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\irflt.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\ledc.c
+	"system/includes.h"
+	"system/debug.h"
+	"generic/gpio.h"
+	"asm/clock.h"
+	"asm/ledc.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\ledc.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\ledc_test.c
+	"system/includes.h"
+	"asm/ledc.h"
+	"audio_spectrum.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\mcpwm.c
+	"asm/mcpwm.h"
+	"asm/clock.h"
+	"asm/gpio.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\plcnt.c
+	"includes.h"
+	"asm/plcnt.h"
+	"asm/gpio.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\pwm_led.c
+	"generic/gpio.h"
+	"asm/includes.h"
+	"asm/pwm_led.h"
+	"asm/power/p11.h"
+	"asm/power/p33.h"
+	"system/timer.h"
+	"app_config.h"
+	"classic/tws_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\pwm_led.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\classic\tws_api.h
+	"typedef.h"
+	"classic/tws_event.h"
+	"classic/tws_local_media_sync.h"
+	"classic/tws_data_trans.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\classic\tws_event.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\classic\tws_local_media_sync.h
+	"generic/list.h"
+	"generic/typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\classic\tws_data_trans.h
+	"generic/typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\setup.c
+	"asm/includes.h"
+	"asm/wdt.h"
+	"asm/debug.h"
+	"asm/efuse.h"
+	"asm/power/p33.h"
+	"asm/efuse.h"
+	"system/task.h"
+	"timer.h"
+	"app_config.h"
+	"gpio.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\spi.c
+	"system/debug.h"
+	"generic/gpio.h"
+	"asm/clock.h"
+	"asm/spi.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\spi.h
+	"typedef.h"
+	"generic/ioctl.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\spi_test.c
+	"system/includes.h"
+	"asm/spi.h"
+	"generic/log.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\tone_player.c
+	"system/includes.h"
+	"media/includes.h"
+	"tone_player.h"
+	"audio_config.h"
+	"app_main.h"
+	"btstack/avctp_user.h"
+	"aec_user.h"
+	"audio_codec_clock.h"
+	"board_config.h"
+	"audio_digital_vol.h"
+	"fm_emitter/fm_emitter_manage.h"
+	"audio_dec_mic2pcm.h"
+	"tone_player_api.h"
+	"debug.h"
+	"media/bt_audio_timestamp.h"
+	"audio_syncts.h"
+	"bt_tws.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\tone_player.h
+	"app_config.h"
+	"audio_config.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\aec_user.h
+	"generic/typedef.h"
+	"user_cfg.h"
+	"commproc_dms.h"
+	"commproc.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\user_cfg.h
+	"typedef.h"
+	"app_config.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\commproc_dms.h
+	"generic/typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\cpu\bd19\commproc.h
+	"generic/typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\audio\audio_digital_vol.h
+	"generic/typedef.h"
+	"os/os_type.h"
+	"os/os_api.h"
+	"generic/list.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\tone_player_api.h
+	"audio_config.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\bt_audio_timestamp.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\audio_syncts.h
+	"typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\bt_tws.h
+	"classic/tws_api.h"
+	"classic/tws_event.h"
+
+1777714898 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\cpu\bd19\uart_dev.c
+	"asm/clock.h"
+	"asm/uart_dev.h"
+	"asm/cpu.h"
+	"generic/gpio.h"
+	"spinlock.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\audio\audio_digital_vol.c
+	"audio_digital_vol.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\bt_common\bt_test_api.c
+	"typedef.h"
+	"app_config.h"
+	"task.h"
+	"btctrler_task.h"
+	"btcontroller_config.h"
+	"system/includes.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\btctrler_task.h
+	"typedef.h"
+	"system/task.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\port\bd19\btcontroller_config.h
+	"btcontroller_modules.h"
+	"ble/ll_config.h"
+	"classic/lmp_config.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\btcontroller_modules.h
+	"hci_transport.h"
+	"btcontroller_mode.h"
+	"ble/hci_ll.h"
+	"classic/hci_lmp.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\hci_transport.h
+	"generic/typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\ble\hci_ll.h
+	<stdint.h>
+	<stdlib.h>
+	<stdarg.h>
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\ble\ll_config.h
+	<stdint.h>
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btctrler\classic\lmp_config.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\code_switch\code_switch.c
+	"system/includes.h"
+	"code_switch.h"
+	"app_config.h"
+	"stdlib.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\code_switch\include\code_switch.h
+	"cpu.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\debug\debug.c
+	"app_config.h"
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\adkey.c
+	"key_driver.h"
+	"adkey.h"
+	"gpio.h"
+	"system/event.h"
+	"app_config.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\ctmu_touch_key.c
+	"key_driver.h"
+	"app_config.h"
+	"asm/ctmu.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\ctmu.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\iokey.c
+	"key_driver.h"
+	"iokey.h"
+	"gpio.h"
+	"system/event.h"
+	"app_config.h"
+	"asm/clock.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\irkey.c
+	"key_driver.h"
+	"irkey.h"
+	"gpio.h"
+	"asm/irflt.h"
+	"app_config.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\key_driver.c
+	"device/key_driver.h"
+	"system/event.h"
+	"system/init.h"
+	"iokey.h"
+	"adkey.h"
+	"slidekey.h"
+	"irkey.h"
+	"touch_key.h"
+	"system/timer.h"
+	"asm/power_interface.h"
+	"app_config.h"
+	"rdec_key.h"
+	"tent600_key.h"
+	"tone_player.h"
+	"irSensor/ir_manage.h"
+	"debug.h"
+	"asm/ctmu.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\tent600_key.h
+	"typedef.h"
+	"asm/adc_api.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\matrix_keyboard.c
+	"matrix_keyboard.h"
+	"key_driver.h"
+	"gpio.h"
+	"system/event.h"
+	"app_config.h"
+	"timer.h"
+	"asm/power_interface.h"
+	"asm/power/p33.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\include\matrix_keyboard.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\matrix_keyboard_ex_mcu.c
+	"matrix_keyboard.h"
+	"key_driver.h"
+	"gpio.h"
+	"system/event.h"
+	"app_config.h"
+	"timer.h"
+	"asm/power_interface.h"
+	"asm/power/p33.h"
+	"ex_mcu_uart.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\include\ex_mcu_uart.h
+	"app_config.h"
+	"ex_mcu.h"
+	"fs.h"
+	"asm/clock.h"
+	"asm/gpio.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\ex_mcu\ex_mcu.h
+	"system/includes.h"
+	"asm/crc16.h"
+	"boot.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\boot.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\key\touch_key.c
+	"touch_key.h"
+	"key_driver.h"
+	"app_config.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\optical_mouse_sensor\hal3205\hal3205.c
+	"OMSensor_config.h"
+	"OMSensor_manage.h"
+	"asm/gpio.h"
+	"app_config.h"
+	"stdlib.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\optical_mouse_sensor\include\omsensor_config.h
+	"hal3205/hal3205.h"
+	"hal3212/hal3212.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\optical_mouse_sensor\include\hal3205\hal3205.h
+	"asm/cpu.h"
+	<stdint.h>
+	<stdbool.h>
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\optical_mouse_sensor\include\hal3212\hal3212.h
+	"asm/cpu.h"
+	<stdint.h>
+	<stdbool.h>
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\optical_mouse_sensor\include\omsensor_manage.h
+	"system/includes.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\optical_mouse_sensor\hal3212\hal3212.c
+	"OMSensor_config.h"
+	"OMSensor_manage.h"
+	"asm/gpio.h"
+	"app_config.h"
+	"stdlib.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\optical_mouse_sensor\omsensor_manage.c
+	"OMSensor_manage.h"
+	"system/includes.h"
+	"app_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\touch_pad\syd9557m.c
+	"app_config.h"
+	"SYD9557M.h"
+	"asm/gpio.h"
+	"timer.h"
+	"event.h"
+	"asm/power_interface.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\touch_pad\syd9557m.h
+	"asm/iic_hw.h"
+	"asm/iic_soft.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\cdc.c
+	"usb/device/usb_stack.h"
+	"usb/usb_config.h"
+	"usb/device/cdc.h"
+	"app_config.h"
+	"os/os_api.h"
+	"cdc_defs.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\device\usb_stack.h
+	"typedef.h"
+	"asm/usb.h"
+	"usb/ch9.h"
+	"usb/usb_phy.h"
+	"usb/otg.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\cpu\bd19\asm\usb.h
+	"typedef.h"
+	"generic/ioctl.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\ch9.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\usb_phy.h
+	"typedef.h"
+	"asm/usb.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\otg.h
+	"asm/usb.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\usb_config.h
+	"typedef.h"
+	"asm/usb.h"
+	"usb/device/usb_stack.h"
+	"usb/host/usb_host.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\host\usb_host.h
+	"system/task.h"
+	"device/device.h"
+	"asm/usb.h"
+	"usb/ch9.h"
+	"usb/usb_phy.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\cdc.h
+	"usb/device/usb_stack.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\cdc_defs.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\custom_hid.c
+	"os/os_api.h"
+	"usb/device/usb_stack.h"
+	"usb/device/hid.h"
+	"usb_config.h"
+	"app_config.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\device\hid.h
+	"typedef.h"
+	"asm/usb.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\descriptor.c
+	"usb/device/usb_stack.h"
+	"usb/device/descriptor.h"
+	"usb/device/uac_audio.h"
+	"app_config.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\device\descriptor.h
+	"asm/usb.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\device\uac_audio.h
+	"asm/usb.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\hid.c
+	"os/os_api.h"
+	"usb/device/usb_stack.h"
+	"usb/device/hid.h"
+	"usb_config.h"
+	"app_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\msd.c
+	"system/includes.h"
+	"usb/device/usb_stack.h"
+	"usb/device/msd.h"
+	"usb/scsi.h"
+	"usb_config.h"
+	"device/device.h"
+	"app_config.h"
+	"dev_manager.h"
+	"apple_dock/iAP.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\device\msd.h
+	"asm/usb.h"
+	"usb_stack.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\scsi.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\apple_dock\iap.h
+	"generic/typedef.h"
+	"uart.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\msd_upgrade.c
+	"system/includes.h"
+	"usb/device/msd.h"
+	"usb/scsi.h"
+	"usb_config.h"
+	"app_config.h"
+	"cpu.h"
+	"asm/debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\task_pc.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"device/sdmmc.h"
+	"app_charge.h"
+	"asm/charge.h"
+	"app_task.h"
+	"usb/usb_config.h"
+	"usb/device/usb_stack.h"
+	"usb/device/hid.h"
+	"usb/device/msd.h"
+	"usb/device/cdc.h"
+	"dev_multiplex_api.h"
+	"apple_dock/iAP.h"
+	"app_sound_box_tool.h"
+	"usb/device/custom_hid.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\server\server_core.h
+	"generic/typedef.h"
+	"system/task.h"
+	"spinlock.h"
+	"list.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\sdmmc.h
+	"generic/typedef.h"
+	"generic/ioctl.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_charge.h
+	"typedef.h"
+	"system/event.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\driver\device\usb\device\custom_hid.h
+	"typedef.h"
+	"asm/usb.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\uac1.c
+	"system/includes.h"
+	"usb_config.h"
+	"usb/device/usb_stack.h"
+	"usb/device/uac_audio.h"
+	"app_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\uac_stream.c
+	"app_config.h"
+	"system/includes.h"
+	"printf.h"
+	"usb/usb_config.h"
+	"usb/device/usb_stack.h"
+	"usb/device/uac_audio.h"
+	"uac_stream.h"
+	"audio_config.h"
+	"audio_track.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\uac_stream.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\media\media_new\media\audio_track.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\usb_device.c
+	"usb/device/usb_stack.h"
+	"usb_config.h"
+	"usb/device/msd.h"
+	"usb/scsi.h"
+	"usb/device/hid.h"
+	"usb/device/custom_hid.h"
+	"usb/device/uac_audio.h"
+	"usb/device/cdc.h"
+	"irq.h"
+	"init.h"
+	"gpio.h"
+	"app_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\device\user_setup.c
+	"usb/device/usb_stack.h"
+	"usb_config.h"
+	"usb/device/msd.h"
+	"usb/scsi.h"
+	"usb/device/hid.h"
+	"usb/device/uac_audio.h"
+	"irq.h"
+	"init.h"
+	"gpio.h"
+	"app_config.h"
+	"apple_dock/iAP.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\adb.c
+	"includes.h"
+	"asm/includes.h"
+	"system/timer.h"
+	"device/ioctl_cmds.h"
+	"usb/host/usb_host.h"
+	"usb_ctrl_transfer.h"
+	"usb_bulk_transfer.h"
+	"device_drive.h"
+	"adb.h"
+	"usb_config.h"
+	"app_config.h"
+	"debug.h"
+	"adb_rsa_key.c"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_ctrl_transfer.h
+	"usb/ch9.h"
+	"usb/usb_phy.h"
+	"device/device.h"
+	"usb_config.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_bulk_transfer.h
+	"typedef.h"
+	"device/device.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\device_drive.h
+	"typedef.h"
+	"errno-base.h"
+	"ioctl.h"
+	"os/os_api.h"
+	<pthread.h>
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\adb.h
+	"system/task.h"
+	"device/device.h"
+	"usb/scsi.h"
+	"usb_bulk_transfer.h"
+	"usb/host/usb_host.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\adb_rsa_key.c
+	"typedef.h"
+	"app_config.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\aoa.c
+	"includes.h"
+	"app_config.h"
+	"usb_config.h"
+	"usb/host/usb_host.h"
+	"usb/usb_phy.h"
+	"device_drive.h"
+	"usb_ctrl_transfer.h"
+	"usb_bulk_transfer.h"
+	"usb_storage.h"
+	"adb.h"
+	"aoa.h"
+	"usb_hid_keys.h"
+	"gamebox.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_storage.h
+	"system/task.h"
+	"device/device.h"
+	"usb/scsi.h"
+	"usb_bulk_transfer.h"
+	"usb/host/usb_host.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\aoa.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_hid_keys.h
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\gamebox.h
+	"usb/device/usb_stack.h"
+	"usb/otg.h"
+	"usb_hid_keys.h"
+	"usb/host/usb_host.h"
+	"adb.h"
+	"aoa.h"
+	"hid.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\hid.h
+	"system/task.h"
+	"device/device.h"
+	"usb/scsi.h"
+	"usb_bulk_transfer.h"
+	"usb/host/usb_host.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\audio.c
+	"includes.h"
+	"asm/includes.h"
+	"app_config.h"
+	"system/timer.h"
+	"device/ioctl_cmds.h"
+	"device_drive.h"
+	"usb/host/usb_host.h"
+	"usb_ctrl_transfer.h"
+	"usb_bulk_transfer.h"
+	"audio.h"
+	"usb_config.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\audio.h
+	"system/task.h"
+	"device/device.h"
+	"usb_bulk_transfer.h"
+	"usb/host/usb_host.h"
+	"usb/device/uac_audio.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\audio_demo.c
+	"includes.h"
+	"asm/includes.h"
+	"app_config.h"
+	"system/timer.h"
+	"device/ioctl_cmds.h"
+	"device_drive.h"
+	"usb/host/usb_host.h"
+	"usb_ctrl_transfer.h"
+	"usb_bulk_transfer.h"
+	"audio.h"
+	"usb_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\hid.c
+	"includes.h"
+	"asm/includes.h"
+	"app_config.h"
+	"system/timer.h"
+	"device/ioctl_cmds.h"
+	"device_drive.h"
+	"usb/host/usb_host.h"
+	"usb_ctrl_transfer.h"
+	"usb_bulk_transfer.h"
+	"hid.h"
+	"usb_config.h"
+	"usb_hid_keys.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_bulk_transfer.c
+	<string.h>
+	"jiffies.h"
+	"usb_config.h"
+	"usb_bulk_transfer.h"
+	"usb_ctrl_transfer.h"
+	"usb_storage.h"
+	"usb/host/usb_host.h"
+	"usb/usb_phy.h"
+	"app_config.h"
+	"device_drive.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_ctrl_transfer.c
+	"usb/host/usb_host.h"
+	"usb_ctrl_transfer.h"
+	"app_config.h"
+	"device_drive.h"
+	"gpio.h"
+	"usb/scsi.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_host.c
+	"includes.h"
+	"app_config.h"
+	"device_drive.h"
+	"usb_config.h"
+	"usb/host/usb_host.h"
+	"usb/usb_phy.h"
+	"usb_ctrl_transfer.h"
+	"usb_storage.h"
+	"adb.h"
+	"aoa.h"
+	"hid.h"
+	"audio.h"
+	"apple_dock/iAP.h"
+	"apple_mfi.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\apple_mfi.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\host\usb_storage.c
+	"asm/includes.h"
+	"system/timer.h"
+	"device/ioctl_cmds.h"
+	"usb/host/usb_host.h"
+	"usb_ctrl_transfer.h"
+	"usb_bulk_transfer.h"
+	"device_drive.h"
+	"usb_storage.h"
+	"usb_config.h"
+	"app_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\usb_config.c
+	"usb_config.h"
+	"usb/scsi.h"
+	"irq.h"
+	"init.h"
+	"gpio.h"
+	"timer.h"
+	"app_config.h"
+	"lbuf.h"
+	"adapter_usb_hid.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\device\usb\usb_host_config.c
+	"usb_config.h"
+	"usb/scsi.h"
+	"irq.h"
+	"init.h"
+	"gpio.h"
+	"app_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\ex_mcu\ex_mcu_uart.c
+	"ex_mcu_uart.h"
+	"debug.h"
+	"ex_mcu_uart.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\temp_trim\dtemp_pll_trim.c
+	"typedef.h"
+	"asm/clock.h"
+	"timer.h"
+	"asm/efuse.h"
+	"irq.h"
+	"asm/power_interface.h"
+	"jiffies.h"
+	"app_config.h"
+	"syscfg_id.h"
+	"system/includes.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\common\custom_cfg.c
+	"custom_cfg.h"
+	"app_config.h"
+	"rcsp_user_update.h"
+	"rcsp_bluetooth.h"
+	"rcsp_adv_user_update.h"
+	"rcsp_adv_bluetooth.h"
+	"smartbox_adv_bluetooth.h"
+	"app_protocol_api.h"
+	"app_config.h"
+	"fs.h"
+	"uart.h"
+	<string.h>
+	"flash_api.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\common\custom_cfg.h
+	"typedef.h"
+	<string.h>
+	"app_config.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_user_update.h
+	"typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bluetooth.h
+	"typedef.h"
+	"le_common.h"
+	"spp_user.h"
+	"system/event.h"
+	"rcsp_msg.h"
+	"ble_user.h"
+	"rcsp_hid_inter.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\le_common.h
+	"typedef.h"
+	<stdint.h>
+	"btstack/bluetooth.h"
+	"app_config.h"
+	"btstack/le/le_common_define.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\bluetooth.h
+	"typedef.h"
+	"le/ble_data_types.h"
+	"le/ble_api.h"
+	"le/le_user.h"
+	"le/att.h"
+	"le/gatt.h"
+	"le/sm.h"
+	"btstack_event.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\le\ble_data_types.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\le\ble_api.h
+	"typedef.h"
+	"btstack/btstack_typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\le\le_user.h
+	"typedef.h"
+	"btstack/btstack_typedef.h"
+	"ble_api.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\le\att.h
+	"typedef.h"
+	"btstack/btstack_typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\le\gatt.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\le\sm.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\btstack_event.h
+	"btstack/btstack_typedef.h"
+	<stdint.h>
+	"le/gatt.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\le\le_common_define.h
+	"typedef.h"
+	<stdint.h>
+	"btstack/bluetooth.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\common\spp_user.h
+	"typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_msg.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\common\ble_user.h
+	"typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\bt_trans_data\rcsp_hid_inter.h
+	"typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_adv_user_update.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\gatt_common\le_gatt_client.c
+	"system/app_core.h"
+	"system/includes.h"
+	"app_config.h"
+	"app_action.h"
+	"btstack/btstack_task.h"
+	"btstack/bluetooth.h"
+	"user_cfg.h"
+	"vm.h"
+	"btcontroller_modules.h"
+	"bt_common.h"
+	"le_client_demo.h"
+	"le_common.h"
+	"ble_user.h"
+	"le_gatt_common.h"
+	"ble/hci_ll.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\btstack_task.h
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\device\vm.h
+	"ioctl.h"
+	"device/device.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\include\bt_common.h
+	<stdint.h>
+	"app_config.h"
+	"lib_profile_cfg.h"
+	"bt_profile_cfg.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\lib_profile_cfg.h
+	"app_config.h"
+	"btcontroller_modules.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\le_client_demo.h
+	<stdint.h>
+	"btstack/le/att.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\gatt_common\le_gatt_common.h
+	<stdint.h>
+	"app_config.h"
+	"le_client_demo.h"
+	"btcontroller_config.h"
+	"ble_config.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\common\ble_config.h
+	"typedef.h"
+	"ble_user.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\gatt_common\le_gatt_common.c
+	"system/app_core.h"
+	"system/includes.h"
+	"app_config.h"
+	"app_action.h"
+	"btstack/btstack_task.h"
+	"btstack/bluetooth.h"
+	"user_cfg.h"
+	"vm.h"
+	"btcontroller_modules.h"
+	"bt_common.h"
+	"le_common.h"
+	"rcsp_bluetooth.h"
+	"JL_rcsp_api.h"
+	"custom_cfg.h"
+	"btstack/btstack_event.h"
+	"le_gatt_common.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\rcsp\jl_rcsp_api.h
+	"typedef.h"
+	"uart.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\gatt_common\le_gatt_server.c
+	"system/app_core.h"
+	"system/includes.h"
+	"app_config.h"
+	"app_action.h"
+	"btstack/btstack_task.h"
+	"btstack/bluetooth.h"
+	"user_cfg.h"
+	"vm.h"
+	"btcontroller_modules.h"
+	"bt_common.h"
+	"3th_profile_api.h"
+	"le_common.h"
+	"rcsp_bluetooth.h"
+	"JL_rcsp_api.h"
+	"custom_cfg.h"
+	"btstack/btstack_event.h"
+	"le_gatt_common.h"
+	"btstack_3th_protocol_user.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\common\3th_profile_api.h
+	<string.h>
+	<stdint.h>
+	"le_common.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\common\btstack_3th_protocol_user.h
+	"spp_config.h"
+	"ble_config.h"
+	"JL_rcsp_api.h"
+	"JL_rcsp_protocol.h"
+	"JL_rcsp_packet.h"
+	"attr.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\common\spp_config.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\rcsp\jl_rcsp_protocol.h
+	"typedef.h"
+	"JL_rcsp_packet.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\rcsp\jl_rcsp_packet.h
+	"typedef.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\third_party\rcsp\attr.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\bt_trans_data\rcsp_hid_inter.c
+	"app_config.h"
+	"rcsp_hid_inter.h"
+	"usb/device/custom_hid.h"
+	"custom_cfg.h"
+	"JL_rcsp_api.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bluetooth.c
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"app_config.h"
+	"rcsp_bluetooth.h"
+	"string.h"
+	"JL_rcsp_api.h"
+	"JL_rcsp_protocol.h"
+	"JL_rcsp_packet.h"
+	"btstack/avctp_user.h"
+	"system/timer.h"
+	"app_core.h"
+	"rcsp_user_update.h"
+	"spp_user.h"
+	"rcsp_msg.h"
+	"app_config.h"
+	"app_action.h"
+	"custom_cfg.h"
+	"btstack_3th_protocol_user.h"
+	"update.h"
+	"key_event_deal.h"
+	"fm_emitter/fm_emitter_manage.h"
+	"ui/ui_api.h"
+	"audio_eq.h"
+	"system/init.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\key_event_deal.h
+	"typedef.h"
+	"system/event.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_ch_loader_download.c
+	"update.h"
+	"uart.h"
+	"update_loader_download.h"
+	"system/fs/fs.h"
+	"rcsp_user_update.h"
+	"JL_rcsp_protocol.h"
+	"os/os_error.h"
+	<string.h>
+	"update_tws_new.h"
+	"update_tws.h"
+	"bt_tws.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\update\update_loader_download.h
+	"typedef.h"
+	"system/task.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\include\update_tws_new.h
+	"app_config.h"
+	"system/event.h"
+	"update_loader_download.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\include\update_tws.h
+	"app_config.h"
+	"system/event.h"
+	"update_loader_download.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_user_update.c
+	"rcsp_user_update.h"
+	"app_config.h"
+	"uart.h"
+	"system/timer.h"
+	"update.h"
+	"custom_cfg.h"
+	"btstack/avctp_user.h"
+	"JL_rcsp_packet.h"
+	"JL_rcsp_protocol.h"
+	"rcsp_bluetooth.h"
+	"update_loader_download.h"
+	"classic/tws_api.h"
+	"btstack_3th_protocol_user.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\online_db\online_db_deal.c
+	"app_config.h"
+	"app_action.h"
+	"system/includes.h"
+	"string.h"
+	"online_db_deal.h"
+	"circular_buf.h"
+	"bt_common.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\online_db\online_db_deal.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\online_db\spp_online_db.c
+	"app_config.h"
+	"app_action.h"
+	"system/includes.h"
+	"spp_user.h"
+	"string.h"
+	"circular_buf.h"
+	"bt_common.h"
+	"online_db_deal.h"
+	"spp_online_db.h"
+	"app_anctool.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\online_db\spp_online_db.h
+	"typedef.h"
+	"bt_common.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\update\testbox_update.c
+	"update_loader_download.h"
+	"update.h"
+	"btctrler_task.h"
+	"app_config.h"
+	"asm/power/p33.h"
+	"asm/power_interface.h"
+	"lib_profile_cfg.h"
+	"bt_profile_cfg.h"
+	"smartbox/smartbox_task.h"
+	"system/debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\update\uart_update.c
+	"app_config.h"
+	"typedef.h"
+	"update_loader_download.h"
+	"os/os_api.h"
+	"system/task.h"
+	"update.h"
+	"gpio.h"
+	"uart_update.h"
+	"asm/uart_dev.h"
+	"asm/clock.h"
+	"debug.h"
+	"asm/power_interface.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\update\uart_update.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\update\uart_update_master.c
+	"app_config.h"
+	"typedef.h"
+	"update_loader_download.h"
+	"os/os_api.h"
+	"system/task.h"
+	"update.h"
+	"gpio.h"
+	"uart_update.h"
+	"asm/uart_dev.h"
+	"asm/clock.h"
+	"timer.h"
+	"system/fs/fs.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\update\update.c
+	"update.h"
+	"update_loader_download.h"
+	"asm/crc16.h"
+	"asm/wdt.h"
+	"os/os_api.h"
+	"app_config.h"
+	"cpu.h"
+	"syscfg_id.h"
+	"btcontroller_modules.h"
+	"system/includes.h"
+	"uart_update.h"
+	"dual_bank_updata_api.h"
+	"btstack/avctp_user.h"
+	"ui/ui_api.h"
+	"rcsp_user_update.h"
+	"rcsp_adv_user_update.h"
+	"tone_player.h"
+	"audio_config.h"
+	"asm/pwm_led.h"
+	"custom_cfg.h"
+	"system/debug.h"
+	"smartbox_extra_flash_opt.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\update\dual_bank_updata_api.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\app_main.c
+	"system/includes.h"
+	"app_config.h"
+	"app_action.h"
+	"app_main.h"
+	"update.h"
+	"update_loader_download.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"asm/charge.h"
+	"jl_kws/jl_kws_api.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_power_manage.h
+	"typedef.h"
+	"system/event.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\jl_kws\jl_kws_api.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\lib_btctrler_config.c
+	"app_config.h"
+	"system/includes.h"
+	"btcontroller_config.h"
+	"bt_common.h"
+	"le_common.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\lib_btstack_config.c
+	"app_config.h"
+	"system/includes.h"
+	"btcontroller_config.h"
+	"bt_common.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\lib_driver_config.c
+	"app_config.h"
+	"system/includes.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\lib_media_config.c
+	"app_config.h"
+	"system/includes.h"
+	"media/includes.h"
+	"audio/demo/audio_decoder_test.c"
+	"audio/demo/audio_encoder_test.c"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\audio\demo\audio_decoder_test.c
+	"media/includes.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\audio\demo\audio_encoder_test.c
+	"media/includes.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\lib_profile_config.c
+	"system/includes.h"
+	"app_config.h"
+	"btcontroller_config.h"
+	"btstack/bt_profile_config.h"
+	"bt_common.h"
+	"btstack/avctp_user.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\btstack\bt_profile_config.h
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\lib_system_config.c
+	"app_config.h"
+	"system/includes.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\lib_update_config.c
+	"app_config.h"
+	"system/includes.h"
+	"update_loader_download.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\config\log_config.c
+	"system/includes.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\gamebox\app_gamebox.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"le_common.h"
+	"rcsp_bluetooth.h"
+	"rcsp_user_update.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_config.h"
+	"usb_hid_keys.h"
+	"gamebox.h"
+	"app_comm_bt.h"
+	"debug.h"
+
+1774510684 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\include_lib\system\config\config_transport.h
+	"typedef.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_comm_bt.h
+	"typedef.h"
+	"system/event.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\gamebox\gamebox.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"vm.h"
+	"update_loader_download.h"
+	"gamebox.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\gamebox\key_mapping.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"vm.h"
+	"gamebox.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\idle\app_idle.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"debug.h"
+
+1777465621 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\app_keyboard.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	<stdlib.h>
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_chargestore.h"
+	"app_comm_bt.h"
+	"debug.h"
+	"gps/gps_main.h"
+	"gps/app_display.h"
+	"tone_player.h"
+	"media/includes.h"
+	"key_event_deal.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\edr_hid_user.h
+	"typedef.h"
+	"bt_common.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\include\standard_hid.h
+	"typedef.h"
+	"usb/device/hid.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_chargestore.h
+	"typedef.h"
+	"system/event.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyfob\app_keyfob.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	<stdlib.h>
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"asm/pwm_led.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_comm_bt.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keypage\app_keypage.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	<stdlib.h>
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_chargestore.h"
+	"app_comm_bt.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\mouse_dual\app_mouse_dual.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	"rcsp_bluetooth.h"
+	"rcsp_user_update.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_config.h"
+	"OMSensor_manage.h"
+	"app_comm_bt.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\mouse_single\app_mouse.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	"OMSensor_manage.h"
+	"rcsp_bluetooth.h"
+	"rcsp_user_update.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_comm_bt.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\standard_keyboard\app_standard_keyboard.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	<stdlib.h>
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"user_cfg.h"
+	"usb/host/usb_hid_keys.h"
+	"matrix_keyboard.h"
+	"user_cfg.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"gpio.h"
+	"app_comm_bt.h"
+	"usb/device/hid.h"
+	"gatt_common/le_gatt_common.h"
+	"debug.h"
+	"asm/power/p33.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\standard_keyboard\usb_hid_devices.c
+	"os/os_api.h"
+	"app_config.h"
+	"usb/device/usb_stack.h"
+	"usb/device/hid.h"
+	"usb_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\voice_remote_control\app_remote_control.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	<stdlib.h>
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_chargestore.h"
+	"app_comm_bt.h"
+	"debug.h"
+	"tone_player.h"
+	"media/includes.h"
+	"key_event_deal.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\bt\app_comm_ble.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	<stdlib.h>
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_chargestore.h"
+	"app_comm_bt.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\bt\app_comm_edr.c
+	"system/app_core.h"
+	"system/includes.h"
+	"server/server_core.h"
+	"app_config.h"
+	"app_action.h"
+	"os/os_api.h"
+	"btcontroller_config.h"
+	"btctrler/btctrler_task.h"
+	"config/config_transport.h"
+	"btstack/avctp_user.h"
+	"btstack/btstack_task.h"
+	"bt_common.h"
+	"edr_hid_user.h"
+	"le_common.h"
+	<stdlib.h>
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"app_charge.h"
+	"app_power_manage.h"
+	"app_chargestore.h"
+	"app_comm_bt.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\bt\ble_hogp.c
+	"system/app_core.h"
+	"system/includes.h"
+	"app_config.h"
+	"app_action.h"
+	"btstack/btstack_task.h"
+	"btstack/bluetooth.h"
+	"user_cfg.h"
+	"vm.h"
+	"btcontroller_modules.h"
+	"bt_common.h"
+	"le_common.h"
+	"standard_hid.h"
+	"rcsp_bluetooth.h"
+	"JL_rcsp_api.h"
+	"update_loader_download.h"
+	"custom_cfg.h"
+	"ble_hogp_profile.h"
+	"gatt_common/le_gatt_common.h"
+	"app_comm_bt.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\bt\ble_hogp_profile.h
+	<stdint.h>
+	"app_config.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\bt\edr_hid_user.c
+	"app_config.h"
+	"app_action.h"
+	"system/includes.h"
+	"spp_user.h"
+	"string.h"
+	"circular_buf.h"
+	"spp_trans_data.h"
+	"bt_common.h"
+	"btstack/avctp_user.h"
+	"circular_buf.h"
+	"edr_hid_user.h"
+	"standard_hid.h"
+	"app_comm_bt.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.h
+	"typedef.h"
+	"bt_common.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\misc.c
+	"system/includes.h"
+	"server/server_core.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\power\app_charge.c
+	"app_config.h"
+	"asm/charge.h"
+	"asm/pwm_led.h"
+	"system/event.h"
+	"system/app_core.h"
+	"system/includes.h"
+	"app_action.h"
+	"asm/wdt.h"
+	"app_main.h"
+	"app_power_manage.h"
+	"app_handshake.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\app_handshake.h
+	"typedef.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\power\app_chargestore.c
+	"init.h"
+	"app_config.h"
+	"system/includes.h"
+	"asm/chargestore.h"
+	"user_cfg.h"
+	"app_chargestore.h"
+	"app_action.h"
+	"app_main.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\power\app_handshake.c
+	"asm/includes.h"
+	"system/includes.h"
+	"app_config.h"
+	"chargebox.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\power\app_power_manage.c
+	"system/includes.h"
+	"app_power_manage.h"
+	"app_main.h"
+	"app_config.h"
+	"app_action.h"
+	"asm/charge.h"
+	"asm/adc_api.h"
+	"btstack/avctp_user.h"
+	"user_cfg.h"
+	"asm/charge.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\rtc_alarm.c
+	"rtc_alarm.h"
+	"system/timer.h"
+	"app_config.h"
+	"asm/rtc.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\include\rtc_alarm.h
+	"typedef.h"
+	"system/includes.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\modules\user_cfg.c
+	"app_config.h"
+	"user_cfg.h"
+	"fs.h"
+	"string.h"
+	"system/includes.h"
+	"vm.h"
+	"btcontroller_config.h"
+	"app_main.h"
+	"app_power_manage.h"
+	"bt_common.h"
+	"audio_config.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\version.c
+	"system/includes.h"
+	"generic/log.h"
+
+1777470075 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"ex_mcu_uart.h"
+	"debug.h"
+
+1774510681 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\common\include\norflash.h
+	"device/device.h"
+	"ioctl_cmds.h"
+	"asm/spi.h"
+	"printf.h"
+	"gpio.h"
+	"device_drive.h"
+	"malloc.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_mouse.c
+	"app_config.h"
+	"system/includes.h"
+	"asm/charge.h"
+	"asm/pwm_led.h"
+	"key_event_deal.h"
+	"user_cfg.h"
+	"device/key_driver.h"
+	"asm/power/p33.h"
+	"code_switch.h"
+	"OMSensor_manage.h"
+	"asm/power_interface.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6321a_stand_keyboard.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"ex_mcu_uart.h"
+	"matrix_keyboard.h"
+	"debug.h"
+
+1777469861 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6323a_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6328a_keyfob.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6328b_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329b_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329c_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329e_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac6329f_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"asm/power/p33.h"
+	"debug.h"
+
+1774510681 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\board\bd19\board_ac632n_demo.c
+	"app_config.h"
+	"system/includes.h"
+	"device/key_driver.h"
+	"asm/chargestore.h"
+	"asm/charge.h"
+	"asm/power/p33.h"
+	"rtc_alarm.h"
+	"asm/pwm_led.h"
+	"user_cfg.h"
+	"usb/otg.h"
+	"norflash.h"
+	"debug.h"
+
+1776855864 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\gps_main.h
+	"typedef.h"
+
+1776185040 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\app_display.h
+	"typedef.h"
+
+1776246440 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\app_display.c
+	"system/includes.h"
+	"drv_tm1638.h"
+	"app_display.h"
+	"debug.h"
+
+1776184980 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\drv_tm1638.h
+	"typedef.h"
+
+1777717543 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\drv_tm1638.c
+	"system/includes.h"
+	"drv_tm1638.h"
+
+1777723344 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\gps_main.c
+	"system/includes.h"
+	"app_config.h"
+	"btstack/avctp_user.h"
+	"le_common.h"
+	"standard_hid.h"
+	"drv_tm1638.h"
+	"app_display.h"
+	"gps_main.h"
+	"gps_uart.h"
+	"debug.h"
+
+1777723907 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\gps_uart.c
+	"system/includes.h"
+	"app_config.h"
+	"nmea_parser.h"
+	"gps_uart.h"
+	"gps_main.h"
+	"app_display.h"
+	"generic/typedef.h"
+	"debug.h"
+
+1776248692 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\nmea_parser.h
+	"typedef.h"
+
+1776785651 d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\gps_uart.h
+	"typedef.h"
+
+1777454897 source:d:\users\26054\desktop\gps\fw-ac63_bt_sdk\apps\hid\examples\keyboard\gps\nmea_parser.c
+	"system/includes.h"
+	"nmea_parser.h"
+	<string.h>
+
